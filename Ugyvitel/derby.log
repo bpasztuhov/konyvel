@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 10 21:17:48 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0159-8a07-8b8a-000001c46c68 
+on database directory /home/bpasztuhov/workspace/Ugyvitel/databases/ugyvitelDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/home/bpasztuhov/workspace/Ugyvitel/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_102-b14
+user.dir=/home/bpasztuhov/workspace/Ugyvitel
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-57-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
